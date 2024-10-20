@@ -89,3 +89,4 @@ public class L2022210202_18_Test {
         assertArrayEquals(expected, result);
     }
 }
+// Hello your code is so beautiful, how can I do this like you?
